@@ -1,0 +1,10 @@
+os
+re
+docx
+PyPDF2
+io 
+nltk
+altair 
+numpy 
+pandas
+streamlit
